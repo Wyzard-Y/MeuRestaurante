@@ -1,0 +1,14 @@
+c:\Users\moise\MeuRestaurante\obj\Debug\net8.0\MeuRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\moise\MeuRestaurante\obj\Debug\net8.0\MeuRestaurante.AssemblyInfoInputs.cache
+c:\Users\moise\MeuRestaurante\obj\Debug\net8.0\MeuRestaurante.AssemblyInfo.cs
+c:\Users\moise\MeuRestaurante\obj\Debug\net8.0\MeuRestaurante.csproj.CoreCompileInputs.cache
+c:\Users\moise\MeuRestaurante\bin\Debug\net8.0\MeuRestaurante.exe
+c:\Users\moise\MeuRestaurante\bin\Debug\net8.0\MeuRestaurante.deps.json
+c:\Users\moise\MeuRestaurante\bin\Debug\net8.0\MeuRestaurante.runtimeconfig.json
+c:\Users\moise\MeuRestaurante\bin\Debug\net8.0\MeuRestaurante.dll
+c:\Users\moise\MeuRestaurante\bin\Debug\net8.0\MeuRestaurante.pdb
+c:\Users\moise\MeuRestaurante\obj\Debug\net8.0\MeuRestaurante.dll
+c:\Users\moise\MeuRestaurante\obj\Debug\net8.0\refint\MeuRestaurante.dll
+c:\Users\moise\MeuRestaurante\obj\Debug\net8.0\MeuRestaurante.pdb
+c:\Users\moise\MeuRestaurante\obj\Debug\net8.0\MeuRestaurante.genruntimeconfig.cache
+c:\Users\moise\MeuRestaurante\obj\Debug\net8.0\ref\MeuRestaurante.dll
